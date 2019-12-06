@@ -9,6 +9,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:Mauro.Quartin@mediarumo.co.ao
 TEL;type=WORK;type=VOICE:+244922500716
 item1.ADR;type=WORK;type=pref:;;Rua Comandante Stona 103/105, Alvalade, Luanda, Angola
 item1.X-ABADR:ao
-item2.URL;type=pref:https://mediarumo.co.ao
+item2.URL;type=pref:mediarumo.co.ao
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
